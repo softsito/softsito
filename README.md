@@ -25,12 +25,12 @@ With over 10 years of experience in the textile industry and expertise in logist
 ## 📫 Connect with Me  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://x.com/softsito" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/softsito" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://linkedin.com/in/carlosalvcord" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/carlosalvcord" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/carlos0727" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/carlos0727" height="30" width="40" /></a>
-<a href="https://fb.com/https://web.facebook.com/carlosdataanalyst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/carlosdataanalyst" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/carlos_ac727" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/carlos_ac727" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@calinsoft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@calinsoft" height="30" width="40" /></a>
+<a href="/x.com/softsito" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/softsito" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/carlosalvcord" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/carlosalvcord" height="30" width="40" /></a>
+<a href="www.kaggle.com/carlos0727" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/carlos0727" height="30" width="40" /></a>
+<a href="web.facebook.com/carlosdataanalyst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/carlosdataanalyst" height="30" width="40" /></a>
+<a href="https://www.instagram.com/carlos_ac727" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/carlos_ac727" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@calinsoft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@calinsoft" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
