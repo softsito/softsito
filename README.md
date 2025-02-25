@@ -25,7 +25,7 @@ With over 10 years of experience in the textile industry and expertise in logist
 ## 📫 Connect with Me  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="/x.com/softsito" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/softsito" height="30" width="40" /></a>
+<a href="https://x.com/softsito" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/softsito" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/carlosalvcord" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/carlosalvcord" height="30" width="40" /></a>
 <a href="www.kaggle.com/carlos0727" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/carlos0727" height="30" width="40" /></a>
 <a href="web.facebook.com/carlosdataanalyst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/carlosdataanalyst" height="30" width="40" /></a>
